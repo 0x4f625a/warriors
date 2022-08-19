@@ -1,12 +1,13 @@
- {
+{
   "name": "jam-and-jax-npc-index-warriors",
   "title": "Jam and Jax's NPC Index: Warriors",
   "description": "Challenge your PCs with these Barbarians, Fighters, Rangers, and Champions. Be sure to add the proper Jam and Jax ancestry feats to round out their abilities!",
   "author": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
-  "version": "1.0",
+  "version": "1.01",
   "minimumCoreVersion": "9.269",
   "compatibleCoreVersion": "9.269",
-  "packs": [{
+  "packs": [
+    {
       "label": "Jam and Jax NPC Barbarians",
       "type": "Actor",
       "name": "barbs",
@@ -14,7 +15,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Barbarian Abilities",
       "type": "Item",
       "name": "barb-items",
@@ -22,7 +23,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Fighters",
       "type": "Actor",
       "name": "fighters",
@@ -30,7 +31,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Fighter Abilities",
       "type": "Item",
       "name": "fighter-items",
@@ -38,7 +39,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Rangers",
       "type": "Actor",
       "name": "rangers",
@@ -46,7 +47,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Ranger Abilities",
       "type": "Item",
       "name": "rang-items",
@@ -54,7 +55,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Champions",
       "type": "Actor",
       "name": "champions",
@@ -62,7 +63,7 @@
       "system": "pf2e",
       "private": false
     },
-	{
+    {
       "label": "Jam and Jax NPC Champion Abilities",
       "type": "Item",
       "name": "champ-items",
@@ -70,7 +71,7 @@
       "system": "pf2e",
       "private": false
     }
-],
+  ],
   "system": [
     "pf2e"
   ],
