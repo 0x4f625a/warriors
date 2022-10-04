@@ -1,82 +1,105 @@
 {
-  "name": "jam-and-jax-npc-index-warriors",
   "title": "Jam and Jax's NPC Index: Warriors",
   "description": "Challenge your PCs with these Barbarians, Fighters, Rangers, and Champions. Be sure to add the proper Jam and Jax ancestry feats to round out their abilities!",
-  "author": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
-  "version": "1.03",
-  "minimumCoreVersion": "9.269",
-  "compatibleCoreVersion": "9.269",
+  "version": "1.04",
   "packs": [
     {
       "label": "Jam and Jax NPC Barbarians",
       "type": "Actor",
       "name": "barbs",
-      "path": "./packs/barbs.db",
+      "path": "packs/barbs.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Barbarian Abilities",
       "type": "Item",
       "name": "barb-items",
-      "path": "./packs/barb-items.db",
+      "path": "packs/barb-items.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Fighters",
       "type": "Actor",
       "name": "fighters",
-      "path": "./packs/fighters.db",
+      "path": "packs/fighters.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Fighter Abilities",
       "type": "Item",
       "name": "fighter-items",
-      "path": "./packs/fighter-items.db",
+      "path": "packs/fighter-items.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Rangers",
       "type": "Actor",
       "name": "rangers",
-      "path": "./packs/rangers.db",
+      "path": "packs/rangers.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Ranger Abilities",
       "type": "Item",
       "name": "rang-items",
-      "path": "./packs/rang-items.db",
+      "path": "packs/rang-items.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Champions",
       "type": "Actor",
       "name": "champions",
-      "path": "./packs/champions.db",
+      "path": "packs/champions.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Jam and Jax NPC Champion Abilities",
       "type": "Item",
       "name": "champ-items",
-      "path": "./packs/champ-items.db",
+      "path": "packs/champ-items.db",
       "system": "pf2e",
-      "private": false
+      "private": false,
+      "flags": {}
     }
   ],
-  "system": [
-    "pf2e"
-  ],
-  "minimumSystemVersion": "3.12.2.10",
   "url": "https://github.com/Jax-PF2/235567923345",
   "manifest": "https://raw.githubusercontent.com/Jax-PF2/235567923345/master/module.json",
-  "download": "https://github.com/Jax-PF2/235567923345/archive/refs/heads/main.zip"
+  "download": "https://github.com/Jax-PF2/235567923345/archive/refs/heads/main.zip",
+  "id": "jam-and-jax-npc-index-warriors",
+  "authors": [
+    {
+      "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.1.0",
+          "verified": "4.1.0"
+         }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10.286",
+    "verified": "10.286"
+  }
 }
