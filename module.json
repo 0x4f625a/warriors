@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Index: Warriors",
   "description": "Challenge your PCs with these Barbarians, Fighters, Rangers, and Champions. Be sure to add the proper Jam and Jax ancestry feats to round out their abilities. Ranger's hunted prey abilities are now fixed in v1.06!",
-  "version": "1.06",
+  "version": "1.5",
   "packs": [
     {
       "label": "Jam and Jax NPC Barbarians",
@@ -92,14 +92,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.1.0",
-          "verified": "4.1.0"
+          "minimum": "4.8.3",
+          "verified": "4.8.3"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "10.286",
-    "verified": "10.286"
+    "minimum": "10.291",
+    "verified": "10.291"
   }
 }
