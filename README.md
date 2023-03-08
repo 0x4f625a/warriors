@@ -16,3 +16,9 @@ Better implementation or major fixes to:
      Rangers:  Hunted Prey, Hunter's Flurry, Hunter's Precision, Animal Support abilities for Rangers, Crossbow Ace, Gravity Bow, Hunter's Aim, Deadly Aim, Ranger's Brambles, Snap Shot, Greater Distracting Shot, Shared Prey, Targeting Shot, Impossible Volley  
     Paladins: Blade Ally, Jousting Support Benefit, Smite, Litany, Advanced Litany, Instrument of Zeal, Blessed Touch, Unbreakable Aura  
 Typo fixes and small adjustments, updated broken ability links  
+3/7/2023 v1.6  Links for token art have been included! Instructions  
+    1. Install PDFtoFoundry module
+    2. You need an official pdf of Paizo's Gamemastery Guide (GMG)
+    3. Import the Gamemastery Guide using the PDFtoFoundry module.
+    4. After refreshing, NPC Index: Warriors should have the art from this pdf. It is limited and human-centric because that is what the GMG has. Paizo has all the rights    for this art. We are just providing a link to it, no different than the PDFtoFoundry module provides. 
+    5. I'm interested in feedback on the Pathfinder Infinite page or email jax.pathfinder2e@gmail.com, particularly if this doesn't work for people. If it works, I'll    stick it in Spellcasters and Specialists too.   
