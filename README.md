@@ -25,3 +25,4 @@ Typo fixes and small adjustments, updated broken ability links
     5. I'm interested in feedback on the Pathfinder Infinite page or email jax.pathfinder2e@gmail.com, particularly if this doesn't work for people. If it works, I'll    stick it in Spellcasters and Specialists too.   
 
 3/8/2023 v1.61  Small Paizo art addition for testing purposes. All Paizo art is used with their permission through pathfinder infinite licensing.
+3/31/2023 v1.62 Fix to searching in compendium browser
