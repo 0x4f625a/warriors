@@ -1,5 +1,5 @@
-# 235567923345  
-warriors  
+readme
+npc warriors  
 changelog  
 8/1/2022 v 1.00 initial release  
 8/15/2022 v 1.01 small fixes; typos, slight stat changes, etc.  
@@ -12,7 +12,8 @@ changelog
 3/8/2023 v1.61  Small Paizo art addition for testing purposes. All Paizo art is used with their permission through pathfinder infinite licensing.  
 3/31/2023 v1.62 Fix to searching in compendium browser  
 4/3/2023 v1.63 another fix to searching in compendium browser  
-6/21/23 v1.7 Added new images and tokens to each character  
+6/21/23 v1.7 Added new images and tokens to each character
+7/13/25 v2.0 Updated for Foundry 13, Pathfinder 7. Changed db files to .ldb files. Confirmed as working.
 
 1.5
 Better implementation or major fixes to:  
