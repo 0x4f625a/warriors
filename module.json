@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Index: Warriors",
   "description": "Challenge your PCs with these Barbarians, Fighters, Rangers, and Champions. Now with images and tokens!",
-  "version": "1.721",
+  "version": "2.0",
   "packs": [
     {
       "label": "Jam and Jax NPC Barbarians",
@@ -92,14 +92,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.8.3",
-          "verified": "4.12.6"
+          "minimum": "7.2.3",
+          "verified": "7.2.3"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "10.291",
-    "verified": "10.291"
+    "minimum": "13.346",
+    "verified": "13.346"
   }
 }
