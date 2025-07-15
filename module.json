@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Index: Warriors",
   "description": "Challenge your PCs with these Barbarians, Fighters, Rangers, and Champions. Now with images and tokens!",
-  "version": "2.0",
+  "version": "2.1",
   "packs": [
     {
       "label": "Jam and Jax NPC Barbarians",
@@ -76,9 +76,9 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/Jax-PF2/235567923345",
-  "manifest": "https://raw.githubusercontent.com/Jax-PF2/235567923345/master/module.json",
-  "download": "https://github.com/Jax-PF2/235567923345/archive/refs/heads/main.zip",
+  "url": "https://github.com/0x4f625a",
+  "manifest": "https://raw.githubusercontent.com/0x4f625a/warriors/main/module.json",
+  "download": "https://github.com/0x4f625a/warriors/archive/refs/heads/main.zip",
   "id": "jam-and-jax-npc-index-warriors",
   "authors": [
     {
@@ -92,14 +92,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "7.2.3",
+          "minimum": "6.12.4",
           "verified": "7.2.3"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "13.346",
+    "minimum": "12.328",
     "verified": "13.346"
   }
 }
